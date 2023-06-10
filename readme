@@ -1,0 +1,35 @@
+# Car Insurance Quote Calculator
+
+This is a web application that provides a car insurance quote calculator. Users can input their car details and select the desired coverage level to get an estimated insurance quote.
+
+
+## Description
+The Car Insurance Quote Calculator is a user-friendly web form that allows users to input their car details, such as make and year, and select the desired coverage level. Upon submitting the form, the application provides an estimated insurance quote based on the provided information. The application offers two coverage levels: Basic and Complete.
+
+## Technologies Used
+The following technologies are used in this project:
+- HTML
+- CSS (Bootstrap Material Design)
+- JavaScript (jQuery)
+
+## Installation
+To run the Car Insurance Quote Calculator, follow these steps:
+1. Clone the project repository to your local machine.
+2. Ensure you have the necessary dependencies, such as the Bootstrap Material Design CSS and JavaScript files, as specified in the code.
+3. Open the `index.html` file in a web browser.
+
+## Usage
+1. Open the `index.html` file in a web browser.
+2. Fill out the form with the required information:
+   - Select the car make from the dropdown list.
+   - Select the car year from the dropdown list.
+   - Choose the desired coverage level by selecting either "Basic" or "Complete."
+3. Click the "Get Quote" button to submit the form and calculate the insurance quote.
+4. The loading spinner will appear while the quote is being processed.
+5. Once the quote is calculated, the result will be displayed on the page.
+
+## Contributing
+Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please submit them as issues or pull requests to the project repository.
+
+## License
+The Car Insurance Quote Calculator is licensed under the [MIT License](https://opensource.org/licenses/MIT).
